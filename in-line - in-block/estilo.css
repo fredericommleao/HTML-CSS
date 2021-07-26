@@ -1,0 +1,32 @@
+/*
+
+Posicionamento estático e relativo
+position : static ou relative
+top = auto
+bottom = baixo
+left = esquerda
+right = direita
+
+*/
+
+#container{
+    background-color: #fff;
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    position: static;
+}
+
+body{
+    background: #007fc7;
+}
+.absolute{
+    position: absolute;
+    top: 80px; right: 300px;
+}
+
+
+p{
+    border: 1px solid black;
+    width: 300px;
+}

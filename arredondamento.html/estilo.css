@@ -1,0 +1,37 @@
+.caixa{
+    width: 400px;  
+    background: #dedede url('fundo-arredondamento.png')repeat-y;
+}
+
+.caixa h2{
+    padding: 10px 20px 0 20px;
+    background: url('topo2.png') no-repeat left top;
+
+}
+
+.caixa p {
+    padding: 0 20px ;
+   
+
+}
+
+.caixa .ultimo{
+    background: url('baixo2.png') no-repeat left bottom;
+    width: 400px;
+    height: 24px;
+
+} 
+
+hr{
+    
+    background: #000;
+    padding: 1px;
+}
+
+#arredondamento{
+    background-color: #dedede;
+    width: 400px;
+    height: 250px;
+    /*border: solid 2px #000;*/
+    border-radius: 20px;
+}

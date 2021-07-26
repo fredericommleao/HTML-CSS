@@ -1,0 +1,31 @@
+.conteudo {
+
+    border: 1px solid black;
+    /*padding-top: cima 20px;
+    padding-right: lado direito 20px;
+    padding-bottom: baixo 20px;
+    padding-left:  lado esquerco 20px;*/
+    padding: 20px ;
+    
+    /*margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;*/
+    margin: 10px; /* margem*/
+    background-color: yellow;
+    width: 150px;
+}
+
+.conteudo2{
+    border: 1px solid black;
+    margin: 10px;
+    width: 150px;
+
+}
+
+.conteudo3{
+    background-color: aqua; /*cor de fundo*/
+    border: 1px solid black;/* bordas */
+    width: 450px;   /* largura */
+
+}

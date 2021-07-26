@@ -1,0 +1,35 @@
+
+.caixa{
+    
+    background: blue;
+    width: 150px;
+    height: 150px;
+  
+    border: 1px solid white;
+    margin: 10px;  
+}
+
+.caixa2{
+    
+    background: blue;
+    width: 150px;
+    height: 150px;
+    float: right;
+    border: 1px solid white;
+    margin: 10px;  
+}
+
+
+.clear{
+
+    clear: both;
+}
+
+#principal{
+ border: 5px solid red;
+ background: green ;
+     
+}
+
+
+

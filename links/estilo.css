@@ -1,0 +1,35 @@
+/* Link antes de clicar*/
+a:link {
+    color: black;
+}
+/*Link depois de visitado */
+a :visited{
+ 
+    color : #c0c0c0;
+}
+/*link ao passar o mouse em cima */
+a:hover{
+    color: #fff;
+    background: #6d790f ;
+}
+/*Link ao deixar o mouse clicado em cima */
+a :active{
+    color: #e4f371;
+}
+/* Parametros pros links */
+a{
+    font-size: 32px;
+    padding: 10px;
+    text-decoration:none ;
+}
+div{
+   
+    background: #D2B48C;
+    padding: 20px;
+
+}
+
+
+body{
+    background: #6959CD;
+}
